@@ -139,6 +139,8 @@ Using {% data variables.product.prodname_pages %} to create a copy of an existin
 
 If your site exceeds these usage quotas, we may not be able to serve your site, or you may receive a polite email from {% data variables.contact.github_support %} suggesting strategies for reducing your site's impact on our servers, including putting a third-party content distribution network (CDN) in front of your site, making use of other {% data variables.product.prodname_dotcom %} features such as releases, or moving to a different hosting service that might better fit your needs.
 
+Adding to the GitHub Pages usage limits, it's important to consider optimizing your content for performance and efficiency. Utilizing external services like CDNs for heavy assets, compressing images, and minimizing code can help stay within limits. GitHub also encourages exploring other features or services that align better with high-demand sites, ensuring a balance between user needs and platform capabilities. For dynamic or highly trafficked sites, exploring alternatives or augmenting GitHub Pages with additional GitHub services or external hosting provide a more scalable solution.
+
 {% endif %}
 
 ## MIME types on {% data variables.product.prodname_pages %}
